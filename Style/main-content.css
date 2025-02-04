@@ -138,6 +138,7 @@
 /* FIM SCROLL */
 
 .offer_list-item{
+    font-family: "DM Sans", sans-serif;
     display: grid;
     justify-items: center;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
